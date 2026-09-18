@@ -40,10 +40,10 @@ Audit Logs and Security Reports
 # Getting Started
 
  # Prerequisites
- -Python 3.10 or newer
- -Git
- -An API key for your selected AI provider
- -Optional: Docker
+ - Python 3.10 or newer
+ - Git
+ - An API key for your selected AI provider
+ - Optional: Docker
  
  # Installation
  
