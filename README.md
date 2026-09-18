@@ -49,5 +49,4 @@ Audit Logs and Security Reports
  
  - Clone the repository:
 
-- git clone :[ https://github.com/your-username/agentguard-security-builder.git
-cd agentguard-security-builder](https://github.com/roshan20071/agentguard/tree/main)
+- git clone :https://github.com/roshan20071/agentguard/tree/main
