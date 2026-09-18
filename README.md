@@ -37,3 +37,16 @@ Action Approved / Blocked
      v
 Audit Logs and Security Reports
 ```
+# Getting Started
+
+#Prerequisites
+ Python 3.10 or newer
+ Git
+ An API key for your selected AI provider
+ Optional: Docker
+
+#Installation
+ ##Clone the repository:
+
+git clone https://github.com/your-username/agentguard-security-builder.git
+cd agentguard-security-builder
