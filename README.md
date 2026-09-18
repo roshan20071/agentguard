@@ -49,4 +49,5 @@ Audit Logs and Security Reports
  
  - Clone the repository:
 
-- git clone :https://github.com/roshan20071/agentguard/tree/main
+ git clone :https://github.com/roshan20071/agentguard.git
+cd agentguard
