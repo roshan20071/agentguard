@@ -1,0 +1,6 @@
+[allowlist]
+tools = ["search"]
+
+[policy]
+max_risk_score = 0.7
+deny_on_findings = true
