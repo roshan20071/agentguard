@@ -47,7 +47,7 @@ Audit Logs and Security Reports
  
  # Installation
  
- -Clone the repository:
+ - Clone the repository:
 
-git clone https://github.com/your-username/agentguard-security-builder.git
+- git clone : https://github.com/your-username/agentguard-security-builder.git
 cd agentguard-security-builder
